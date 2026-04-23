@@ -1,0 +1,7 @@
+The 4 juypter source files are the 4 files for preparing databases, pre-processing and models.
+Nazario.csv is the Nazario dataset as collected.
+1_Enron_ml_ready.csv is the results of the 1_Enron_formatting.ipynb this is so that you don't have to download the full corpus online but can still run the pre-processing and models.
+3_AI_phish_preprocess.csv is the AI-generated phishing emails.
+The folder is the Datasets the code will generate, not needed for running but included if one wanted to skip straight to the models, 4_FINAL_preppared_dataset currently contains a Naz and AI-phishing mix.
+
+INCASE THE DATASETS are not accessible due to being phishing related content and blocked during the upload to google drive, the report has links to where the Enron and Nazario datasets were downloaded from and the AI-generated phishing emails dataset (as of writing this is downloaded able on accounts accessing the share link) in the Moodle drop box as well.
